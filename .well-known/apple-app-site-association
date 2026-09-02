@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["X86C8S9AXN.com.wonbin.borrowed"],
+        "components": [
+          { "/": "/invite/*", "comment": "초대 링크만 앱으로 연다" }
+        ]
+      }
+    ]
+  }
+}
